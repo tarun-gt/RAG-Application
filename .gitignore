@@ -1,0 +1,9 @@
+.env
+
+.python-version
+
+requirements.txt
+
+synthetic_questions.txt
+
+uv.lock
